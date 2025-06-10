@@ -1,10 +1,11 @@
-name:Kyrie XVIII B (Missa pro defunctis);
+name:Kyrie XVIII;
 office-part:Kyriale;
-mode:6;
-book:Graduale Romanum, 1974, p. 767;
-transcriber:Pierre François;
+mode:4;
+book:Graduale Romanum, 1961, p. 57* & The Liber Usualis, 1961, p. 62 & Chants of the Church, 1956, p. 44;
+transcriber:Andrew Hinkley;
+commentary:XI. s.;
 %%
-(c4) KY(ix//fg!hi)ri(h)e(hg..) *(,) e(hvGF'Ef)lé(g)i(f)son.(f.) ( )<i>bis</i>(::)
-Chri(ix//fg!hi)ste(hg..) (,) e(hvGF'Ef)lé(g)i(f)son.(f.) ( )<i>bis</i>(::)
-Ký(ix//fg!hi)ri(h)e(hg..) (,) e(hvGF'Ef)lé(g)i(f)son.(f.) (::Z)
-Ký(j)ri(f)e(ix//f./ji/jkJ'IHG.) (,) e(hvGF'Ef)lé(g)i(f)son.(f.) (::)
+(c3) KY(hhg)ri(fg)e(f') *() e(e)lé(f_)i(g)son.(g.) <i>iij.</i>(::)
+Chri(i)ste(ij) e(ih)lé(i')i(i)son.(g.) <i>iij.</i>(::)
+Ký(hhg)ri(fg)e(f') e(e)lé(f_)i(g)son.(g.) <i>ij.</i>(::)
+Ký(g!hwi)ri(fg)e(fe) *() e(ih/ijIH)lé(i')i(i)son.(g.) (::)
